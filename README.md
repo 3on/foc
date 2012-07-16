@@ -44,7 +44,7 @@ Big R&D subject, how and what can we bring to the tablets, iPad and Nexus 7 and 
 This could lead to pure awesomeness, but todisapointment, worse scenario VLC web plugin.
 
 
-Sub projects  
+Sub projects hosted on github
 - https://github.com/3on/foc-api
 - https://github.com/3on/foc-scraper
 - https://github.com/3on/foc-pier
