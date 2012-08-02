@@ -33,25 +33,37 @@ Scraper
 The scraper goes on website and grab data/file to feed the mothership API with. The mothership API provides list of wanted subscriptions or whised files.
 The scraper sends whater he find that match back to the API.
 
-CLI Client
+Web
 ----------
-To be determined
+[Github repository](https://github.com/A21z/foc-web)  
+Web client for foc
 
-Web Client
+CLI
 ----------
-To be determined, but mostly a 1 to 1 mapping of all the features of the API.
+CLI Client
+TBD
+
+Win
+----------
+Windows Client
+TBD
+
+OSX
+----------
+OSX Client
+TBD
 
 Streamer
 --------
-Big R&D subject, how and what can we bring to the tablets, iPad and Nexus 7 and to the html5 video tag.  
+R&D subject, how and what can we bring to the tablets, iPad and Nexus 7 and to the html5 video tag.  
 This could lead to pure awesomeness, but todisapointment, worse scenario VLC web plugin.
 
 
 Sub projects
 --------
-- https://github.com/3on/foc-api
-- https://github.com/3on/foc-scraper
-- https://github.com/3on/foc-pier
-- cli client
-- web client
+- [foc-api](https://github.com/3on/foc-api)
+- [foc-scraper](https://github.com/3on/foc-scraper)
+- [foc-pier](https://github.com/3on/foc-pier)
+- [foc-web](https://github.com/A21z/foc-web)
+- CLI client
 - streamer
