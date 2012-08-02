@@ -3,7 +3,7 @@ Files over clouds
 
 API
 ---
-[Github repository](https://github.com/3on/foc-api)
+[Github repository](https://github.com/3on/foc-api)  
 This is the mothership, it hold the data and talks to the differents sub projects.  
 The API handle:
 - user managment, auth creation grant
@@ -16,7 +16,7 @@ The API handle:
 
 Pier
 ----
-[Github repository](https://github.com/3on/foc-pier)
+[Github repository](https://github.com/3on/foc-pier)  
 The pier act as a proxy for accesseing and manipulating files. Because of it is not part of the API is can run on any other machin and is flexible enough for any crazy setup.
 The pier does of could do:
 - talk and auth itself on a single mothership API
@@ -29,7 +29,7 @@ The pier does of could do:
 
 Scraper
 -------
-[Github repository](https://github.com/3on/foc-scraper)
+[Github repository](https://github.com/3on/foc-scraper)  
 The scraper goes on website and grab data/file to feed the mothership API with. The mothership API provides list of wanted subscriptions or whised files.
 The scraper sends whater he find that match back to the API.
 
